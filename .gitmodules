@@ -3,3 +3,8 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "DemoKin"]
+	path = DemoKin
+	url = https://github.com/ivanwilli/demokin
+	shallow = true
+	registered = true
